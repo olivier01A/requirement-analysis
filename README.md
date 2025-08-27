@@ -58,3 +58,33 @@ Ensures Customer Satisfaction:
 
 By capturing stakeholders’ real needs accurately, the final software product is more likely to satisfy business goals and user expectations.
 
+# Why is Requirement Analysis Important?
+
+Here are three key reasons why Requirement Analysis is critical in the Software Development Life Cycle (SDLC):
+
+## 1. Defines Clear Project Scope and Objectives
+
+Requirement Analysis ensures that stakeholders’ needs and expectations are accurately gathered and documented.
+
+This clarity prevents scope creep (uncontrolled changes or additions), keeping the project focused and aligned with business goals.
+
+A well-defined scope also helps developers, testers, and managers understand exactly what needs to be built.
+
+## 2. Improves Communication Between Stakeholders
+
+It acts as a bridge between clients, end-users, and the development team.
+
+By documenting requirements through models, specifications, and use cases, it ensures that all parties share the same understanding of the system.
+
+This reduces misunderstandings and minimizes rework later in the project.
+
+## 3. Reduces Development Costs and Time
+
+Detecting and correcting requirement errors early is far less expensive than fixing them during coding or after deployment.
+
+With well-analyzed requirements, developers build the right features the first time, avoiding wasted resources.
+
+This leads to better time management, optimized resource allocation, and cost savings.
+
+✅ In summary: Requirement Analysis is critical in the SDLC because it sets a clear direction, ensures stakeholder alignment, and prevents costly mistakes.
+
