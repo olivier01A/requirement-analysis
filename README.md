@@ -88,3 +88,55 @@ This leads to better time management, optimized resource allocation, and cost sa
 
 ✅ In summary: Requirement Analysis is critical in the SDLC because it sets a clear direction, ensures stakeholder alignment, and prevents costly mistakes.
 
+# Key Activities in Requirement Analysis
+
+## .Requirement Gathering
+
+Initial step in the requirements process.
+
+Focuses on collecting raw information about what stakeholders need.
+
+Techniques include interviews, surveys, questionnaires, and observations.
+
+Ensures all potential requirements are captured before refinement.
+
+## .Requirement Elicitation
+
+.Involves actively engaging with stakeholders to clarify, refine, and expand gathered requirements.
+
+.Uses workshops, brainstorming sessions, prototyping, and use case scenarios.
+
+.Aims to uncover hidden, implicit, or conflicting requirements.
+
+.Builds a deeper understanding of the problem domain.
+
+## .Requirement Documentation
+
+.Converts gathered and elicited requirements into formal, structured documents.
+
+.Common outputs: Software Requirement Specification (SRS), user stories, or use case diagrams.
+
+.Ensures requirements are clearly communicated to all team members.
+
+.Provides a baseline for project scope and future reference.
+
+## .Requirement Analysis and Modeling
+
+.Examines requirements to identify feasibility, dependencies, and conflicts.
+
+.Prioritizes requirements based on business value and technical constraints.
+
+.Uses modeling techniques (e.g., UML diagrams, data flow diagrams, prototypes) to visualize system behavior.
+
+.Helps in understanding how requirements will be implemented.
+
+## .Requirement Validation
+
+.Confirms that documented requirements accurately reflect stakeholder needs.
+
+.Involves reviews, walkthroughs, inspections, and stakeholder approval sessions.
+
+.Ensures requirements are consistent, complete, and testable.
+
+.Reduces risk of costly rework during later SDLC phases.
+
