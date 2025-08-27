@@ -140,3 +140,88 @@ Ensures all potential requirements are captured before refinement.
 
 .Reduces risk of costly rework during later SDLC phases.
 
+# Types of Requirements
+
+##  Functional Requirements
+
+These describe what the system should do — the specific features and functions it must provide.
+
+Examples for Booking Management System:
+
+*User Authentication:
+
+.Users must be able to register and log in securely.
+
+.Admins must be able to log in with special privileges.
+
+*Property/Event Listing:
+
+.The system should allow admins to add, edit, and remove listings (e.g., hotels, rooms, flights, or events).
+
+*Search and Filter:
+
+.Users should be able to search for bookings by date, location, type, or price range.
+
+*Booking Process:
+
+.Users must be able to select available options and make reservations.
+
+*Payment Processing:
+
+.The system should support multiple payment methods (credit card, PayPal, mobile money).
+
+*Booking Confirmation & Notifications:
+
+.The system must send confirmation emails/SMS after successful booking.
+
+*Cancellation & Refunds:
+
+.Users should be able to cancel or modify bookings, with applicable refund rules.
+
+*Reporting & Analytics:
+
+.Admins can generate reports on revenue, occupancy, and booking trends.
+
+##  Non-Functional Requirements
+
+These describe how the system should perform — focusing on quality attributes rather than specific features.
+
+*Examples for Booking Management System:
+
+*Performance:
+
+.The system should handle at least 500 concurrent users without performance degradation.
+
+.Search results must be displayed in under 3 seconds.
+
+*Scalability:
+
+.system must be able to scale horizontally to support future growth in users and bookings.
+
+*Security:
+
+.All user data (especially payment details) must be encrypted.
+
+.The system should comply with PCI-DSS standards for payment security.
+
+*Availability/Reliability:
+
+.The system should have 99.9% uptime.
+
+.Data backups must be performed daily.
+
+*Usability:
+
+.The interface should be responsive and work on desktops, tablets, and mobile devices.
+
+*Maintainability:
+
+.The system’s code should follow modular architecture to ease updates and bug fixes.
+
+*Compatibility:
+
+.Must support major browsers (Chrome, Edge, Safari, Firefox).
+
+*Localization:
+
+.The system should support multiple languages and currencies
