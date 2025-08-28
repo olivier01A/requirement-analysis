@@ -275,31 +275,44 @@ Serves as a blueprint for detailed modeling, including sequence diagrams, activi
 # alx-booking-uc.png
 ![image_url](https://raw.githubusercontent.com/olivier01A/requirement-analysis/3321a3edee8a9242f858b248ce9cc01c34ea390f/Diagram%20for%20the%20booking%20system.drawio.png)
 
-# Why is Requirement Analysis Important?
+# Acceptance Criteria
 
-## Development Life Cycle (SDLC):
+## 1. Clarity of Expectations
 
-## 1.Clear Understanding of Stakeholder Needs
+.Acceptance Criteria provide a clear understanding of what stakeholders expect from each requirement.
 
-.Requirement Analysis ensures that the development team fully understands what stakeholders want from the system.
+.They remove ambiguity by translating broad requirements into measurable, testable conditions.
 
-.By gathering and analyzing requirements early, misunderstandings and assumptions are reduced, leading to a system that aligns with business goals and user expectations.
+Example: Instead of just saying “The system should allow users to log in”, acceptance criteria might specify “Users must log in using a valid email and password, and the system should lock the account after 3 failed attempts.”
 
-## 2.Prevents Scope Creep and Cost Overruns
+## 2. Basis for Testing and Validation
 
-.Clearly defined and validated requirements set clear project boundaries.
+.They serve as a checklist for testers and developers to verify whether the requirement has been implemented correctly.
 
-.This prevents uncontrolled changes (scope creep) during development, which often cause delays, cost overruns, and project failure.
+.Without acceptance criteria, it becomes difficult to determine when a feature is truly “done.”
 
-## 3.Foundation for Design, Development, and Testing
-
-.Requirements act as the blueprint for the system’s design and functionality.
-
-.They guide developers in building the right features and help testers create test cases to verify that the system meets expectations.
-
-Without solid requirements, the project risks producing software that is unusable or incomplete.
+.Test cases are often derived directly from acceptance criteria, ensuring proper validation.
 
 
+## 3. Prevention of Scope Creep
+
+.Acceptance criteria define the boundaries of each requirement.
+
+.This prevents unnecessary features from being added later, as only the conditions agreed upon are delivered.
+
+.It ensures the team focuses on the exact needs, saving time and cost.
+
+## 4. Improved Communication with Stakeholders
+
+.Acceptance criteria ensure that all parties (stakeholders, analysts, developers, testers) have the same interpretation of a requirement.
+
+.They serve as a contract of understanding, reducing misunderstandings and disputes later in the project.
+
+## 5. Support for Agile and Iterative Development
+
+.In Agile, acceptance criteria play a critical role in defining the Definition of Done for user stories.
+
+.They allow teams to deliver incremental value and ensure that each iteration meets agreed-upon quality standards.
 
 
  
