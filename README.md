@@ -272,9 +272,8 @@ Serves as a blueprint for detailed modeling, including sequence diagrams, activi
 
  In short: Use Case Diagrams provide a high-level, user-centered view of a system, making them essential for clarifying requirements, aligning stakeholders, and guiding system design.
 
- # alx-booking-uc.png
 
- <img width="686" height="711" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/b3fdf331-bf82-43a9-847f-9e19c7dd3322" />
 
+https://github.com/olivier01A/requirement-analysis/blob/3321a3edee8a9242f858b248ce9cc01c34ea390f/Diagram%20for%20the%20booking%20system.drawio.png
 
  
