@@ -274,6 +274,6 @@ Serves as a blueprint for detailed modeling, including sequence diagrams, activi
 
 
 
-https://github.com/olivier01A/requirement-analysis/blob/3321a3edee8a9242f858b248ce9cc01c34ea390f/Diagram%20for%20the%20booking%20system.drawio.png
+
 
  
