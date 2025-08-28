@@ -271,3 +271,10 @@ Supports System Design
 Serves as a blueprint for detailed modeling, including sequence diagrams, activity diagrams, and system architecture.
 
  In short: Use Case Diagrams provide a high-level, user-centered view of a system, making them essential for clarifying requirements, aligning stakeholders, and guiding system design.
+
+ # alx-booking-uc.png
+
+ <img width="686" height="711" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/b3fdf331-bf82-43a9-847f-9e19c7dd3322" />
+
+
+ 
