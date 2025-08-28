@@ -275,6 +275,30 @@ Serves as a blueprint for detailed modeling, including sequence diagrams, activi
 # alx-booking-uc.png
 ![image_url](https://raw.githubusercontent.com/olivier01A/requirement-analysis/3321a3edee8a9242f858b248ce9cc01c34ea390f/Diagram%20for%20the%20booking%20system.drawio.png)
 
+# Why is Requirement Analysis Important?
+
+## Development Life Cycle (SDLC):
+
+## 1.Clear Understanding of Stakeholder Needs
+
+.Requirement Analysis ensures that the development team fully understands what stakeholders want from the system.
+
+.By gathering and analyzing requirements early, misunderstandings and assumptions are reduced, leading to a system that aligns with business goals and user expectations.
+
+## 2.Prevents Scope Creep and Cost Overruns
+
+.Clearly defined and validated requirements set clear project boundaries.
+
+.This prevents uncontrolled changes (scope creep) during development, which often cause delays, cost overruns, and project failure.
+
+## 3.Foundation for Design, Development, and Testing
+
+.Requirements act as the blueprint for the system’s design and functionality.
+
+.They guide developers in building the right features and help testers create test cases to verify that the system meets expectations.
+
+Without solid requirements, the project risks producing software that is unusable or incomplete.
+
 
 
 
