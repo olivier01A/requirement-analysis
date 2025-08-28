@@ -225,3 +225,49 @@ These describe how the system should perform — focusing on quality attributes 
 *Localization:
 
 .The system should support multiple languages and currencies
+
+# Use Case Diagrams
+
+A Use Case Diagram is a type of Unified Modeling Language (UML) diagram used in software engineering to visually represent how different users (called actors) interact with a system. It focuses on the functional requirements of the system, showing what the system should do from the perspective of its users rather than how it is implemented.
+
+## Key Elements in a Use Case Diagram
+
+Actors → External entities (users, other systems, or devices) that interact with the system.
+
+Use Cases → The specific actions or services the system performs in response to an actor (e.g., "Book Ticket," "Login").
+
+System Boundary → Defines the scope of the system, showing what functions belong inside the system.
+
+Relationships → Connections between actors and use cases (e.g., associations, inclusions, extensions).
+
+## Benefits of Use Case Diagrams
+
+Clear Visualization of System Functionality
+
+Helps stakeholders quickly understand what the system will do without going into technical details.
+
+Defines System Scope
+
+Clearly shows what is inside and outside the system’s boundary, avoiding scope creep.
+
+Improves Communication
+
+Provides a common language between developers, business analysts, and stakeholders.
+
+Captures User Requirements
+
+Focuses on what users want to achieve, ensuring the system is designed to meet user needs.
+
+Helps in Requirement Analysis
+
+Identifies key interactions and dependencies early, making requirement gathering structured.
+
+Foundation for Test Cases
+
+Use cases can be transformed into test scenarios to validate system functionality.
+
+Supports System Design
+
+Serves as a blueprint for detailed modeling, including sequence diagrams, activity diagrams, and system architecture.
+
+ In short: Use Case Diagrams provide a high-level, user-centered view of a system, making them essential for clarifying requirements, aligning stakeholders, and guiding system design.
